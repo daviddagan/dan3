@@ -1,0 +1,14 @@
+C:\Users\ו\Source\Repos\3.33\3.33\bin\Debug\3.33.exe.config
+C:\Users\ו\Source\Repos\3.33\3.33\bin\Debug\3.33.exe
+C:\Users\ו\Source\Repos\3.33\3.33\bin\Debug\3.33.pdb
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.csprojResolveAssemblyReference.cache
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\MainWindow.baml
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\MainWindow.g.cs
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\App.g.cs
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33_MarkupCompile.cache
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.g.resources
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\_3._33.Properties.Resources.resources
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.csproj.GenerateResource.Cache
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.csproj.CoreCompileInputs.cache
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.exe
+C:\Users\ו\Source\Repos\3.33\3.33\obj\Debug\3.33.pdb
